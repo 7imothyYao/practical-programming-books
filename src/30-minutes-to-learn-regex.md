@@ -305,7 +305,7 @@
 </div>
 <p>分组可以包括空字符串：</p>
 <ul>
-<li>(red|blue)表示匹配red或者blue或者是一个空字符串</li>
+<li>(red|blue|)表示匹配red或者blue或者是一个空字符串</li>
 <li>abc()def与abcdef相同</li>
 </ul>
 <p>你也可以在分组的基础上使用重复：</p>
